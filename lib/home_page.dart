@@ -24,7 +24,7 @@ class HomePageState extends State<HomePage> {
                 itemBuilder: (context, index) {
                   return Container(
                     height: 130,
-                    color: Colors.greenAccent,
+                    color: Colors.lightBlue,
                     padding: const EdgeInsets.symmetric(
                         vertical: 10, horizontal: 10),
                     margin: const EdgeInsets.all(10),
